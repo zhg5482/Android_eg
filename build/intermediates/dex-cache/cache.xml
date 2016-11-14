@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_a9573ec0e9e42eaa8ec3654fbc4369c990adc0d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d3c45dc66dd459e488364a5351cf115674f42000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0/bf61256d9868ea053e24d77669c55c80db375c15/adapter-rxjava-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0_ede90a80bdcadacb3b8f88446c164ee59c9830c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e754632b2ea07c21445d0947d83419d32bd1d7c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_292ba9a8c0cf279d8fa255c716e3a9ae05ecd2ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_6e65fda00ba60040b933fa4d66de4376afaaddbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.2.1_a1b0878b3dca2f48a46d476f3084b25b37919161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_717075e14c20bff8e079e64ad816fd54929a88d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_50946e4dfb88f9a3f069f45a0ce1cad1aeb388ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_f96e6233d66bed0da9d2bd924b30037423c17d2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_5df5a566bda290f4fae3519ea51cbbf92ef05213/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9a40e342f99d8c36c4bc42583542b3ea2bf804b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_50c2e3c17c93e506af78fdaba3e74eb003da6156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_bfcc3b89b4f6d193e920083adce95de8ac38e569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="14e883fe99004f142e12a25b2a79ae40acc2a2bd">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff4f6bd20f3300434a13ab480b5dc235ef492424/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26b365e22a010662838d60f6e40bc772e138f5c5">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cb0ceb9922814ef5f9a69453f31b5d86675e437c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_088a90dd5880fbbbb857ce6c2d6df633e1054bc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_902b05405159a082c2c69a228d709a9af2e00fa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a9f17dec875ddec3f8e5ebdf7b9ce1c6be92e9f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_52c9d765539988906bd74c9d980436fcdbc31c0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_e8f38a7d345a6490048cac5365f4a28200ae1206/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_2d452d45c212893f2f209d2599b2e3692f5adbcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_9f521fc8e7657c0ddce932e9a5dcdcc589a86857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_bd7c96d941bc2b73aec012d1f651b82e1081a040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.1_d26d35bb1053d4b17e232ab2613d644e54a44523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_9189e465ad0f51dcac95e353fef824fafa6ed39c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_20fb85a145d43425ef13bf6bd3d36f4f3f6a0b1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_56ebad41f01c3f681c66ce7ee74e08cae995a295/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6ae0558566272ab91bdb4c4789c3da2d39266e94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_d2d3363bfc4c92e46d94b3dcfa59f7deb7d4e5be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_4f7fca2312d7689630f5ba7127ed1c442ba1fe6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_70f047e1976302348db19f046e5764a4306b3911/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhg-pc/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/zhg-pc/AndroidStudioProjects/RxJavaSamples-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0_e69d5d2a7dfe1f46164595c2b1ccd7654ce489f7/classes.dex" />
+    </item>
+
+</items>
